@@ -24,6 +24,9 @@
 
 > I developed bar chart, column chart and waffle chart using D3.js and combined all those into one poster using html, css and javascript. The icons were added using MS power point.
 
+## Data Visualization
+![Site](./image.png)
+
 ## Author Links
 [LinkedIn](https://www.linkedin.com/in/mahisha-gunasekaran-0a780a88/)
 
